@@ -12,7 +12,7 @@
 
 
 
-> [`Script Banco de Dados - MySql`]
+> `Script Banco de Dados - MySql`
 ```sh 
 create database dart_mysql;
 use dart_mysql;
