@@ -1,7 +1,7 @@
 # Banco de Dados
 
 
-> `Dependência MySql: mysql1`
+> [`Dependência MySql: mysql1`](https://pub.dev/packages/mysql1)
 
 
 ## Conceitos
@@ -12,7 +12,7 @@
 
 
 
-> [`Script Banco de Dados - MySql`](https://pub.dev/packages/mysql1)
+> [`Script Banco de Dados - MySql`]
 ```sh 
 create database dart_mysql;
 use dart_mysql;
