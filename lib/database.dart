@@ -10,7 +10,8 @@ class DataBase {
       password: '1234',
       db: 'dart_mysql',
     );
-
+    // Atenção para esse delay, devido a um problema no windows vc precisa adicionar esse delay
+    await Future.delayed(Duration(seconds: 1));
     return await MySqlConnection.connect(settings);
   }
 }
